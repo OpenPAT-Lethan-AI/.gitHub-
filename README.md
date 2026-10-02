@@ -62,8 +62,7 @@ Documentation
 
 Official documentation:
 
-https://docs.openpat.ai
+https://docsopenpat.vercel.app/
 
----
 
 openPAT — PheslaX Alpha Technologies
